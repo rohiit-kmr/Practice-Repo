@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Basic ASCII encryption of any String value
+
 public class Encryption {
     public static void main(String args[]){
         System.out.print("Enter name you want to convert :- ");
